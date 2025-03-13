@@ -1,0 +1,7 @@
+streamlit 
+gtts 
+pytesseract
+easyocr
+httpx
+google.generativeai
+python-dotenv
