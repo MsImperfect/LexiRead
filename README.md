@@ -1,12 +1,36 @@
-# LexiRead
------
+📖 LexiRead
+Empowering Reading for Everyone — Especially with Dyslexia
+LexiRead is an inclusive, AI-powered web application built using Streamlit, Gemini AI, OCR, and TTS technologies. Designed with accessibility in mind, LexiRead provides features that make reading and comprehension easier for individuals with dyslexia or reading difficulties.
 
-## How to run:
-These are the steps to run the app:
+🚀 Features
+🎨 Dyslexic-Friendly Fonts
+Toggle between standard fonts and OpenDyslexic, a font designed to improve readability for dyslexic users.
+🧾 Text Extraction from Images
+Upload any handwritten or printed image — LexiRead uses Gemini AI and EasyOCR to extract and clean up the text with grammar corrections.
+🔊 Text-to-Speech (TTS)
+Convert extracted or user-inputted text into speech using Google Text-to-Speech (gTTS) in multiple languages.
+💬 Multilingual Support
+TTS available in major global languages including English, Hindi, Japanese, Spanish, Korean, and more.
+📚 Educational Content
+Learn more about dyslexia — its causes, symptoms, and how to support individuals with it.
+📞 Contact Section
+Built-in contact form to reach out to developers for feedback or collaboration.
 
-  - Step 1: create an environment using venv
-  - Step 2: activate said environment
-  - Step 3: create a .env file and populate it with ```GEMINIKEY="<your_api_key>"```
-  - Step 4: cd to the folder where the app.py file is
-  - Step 5: run ```pip install -r requirements.txt```
-  - Step 6: run ```streamlit run app.py```
+🧪 How to Run Locally
+1. Clone the repository
+
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+3. Add Gemini API key
+Create a .env file in the project directory and add:
+```bash 
+GEMINIKEY=your_gemini_api_key_here
+```
+
+4. Rum the app
+```bash
+streamlit run app.py
+```
