@@ -39,3 +39,7 @@ GEMINIKEY=your_gemini_api_key_here
 ```bash
 streamlit run app.py
 ```
+
+
+"Disability? Nah, this ability 💪🏼"
+LexiRead is more than just a tool — it’s a step toward inclusive tech that empowers everyone to read their way.
