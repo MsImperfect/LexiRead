@@ -5,14 +5,19 @@ LexiRead is an inclusive, AI-powered web application built using Streamlit, Gemi
 🚀 Features
 🎨 Dyslexic-Friendly Fonts
 Toggle between standard fonts and OpenDyslexic, a font designed to improve readability for dyslexic users.
+
 🧾 Text Extraction from Images
 Upload any handwritten or printed image — LexiRead uses Gemini AI and EasyOCR to extract and clean up the text with grammar corrections.
+
 🔊 Text-to-Speech (TTS)
 Convert extracted or user-inputted text into speech using Google Text-to-Speech (gTTS) in multiple languages.
+
 💬 Multilingual Support
 TTS available in major global languages including English, Hindi, Japanese, Spanish, Korean, and more.
+
 📚 Educational Content
 Learn more about dyslexia — its causes, symptoms, and how to support individuals with it.
+
 📞 Contact Section
 Built-in contact form to reach out to developers for feedback or collaboration.
 
